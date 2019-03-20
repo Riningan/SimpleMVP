@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+
+    <string name="main_input">Введите суммы</string>
+    <string name="main_convert">Конвертировать</string>
+    <string name="main_error_load_currencies">Не удалось загрузить список валют: %s</string>
+    <string name="main_error_convert">Не удалось конверитровать валюту: %s</string>
+    <string name="main_converted">Валюта конвертирована успешно: %s</string>
+</resources>
